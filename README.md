@@ -36,11 +36,11 @@ The notebook performs the following steps:
 
 Clone the repository and install dependencies:
 
-``` bash
+
 git clone <your-repo-url>
 cd <your-repo-folder>
 pip install -r requirements.txt
-```
+
 
 
 
@@ -56,9 +56,9 @@ This project uses:
 
 Install everything via:
 
-``` bash
+
 pip install pandas numpy matplotlib seaborn
-```
+
 
 
 
@@ -66,9 +66,9 @@ pip install pandas numpy matplotlib seaborn
 
 Run the Jupyter notebook:
 
-``` bash
+
 jupyter notebook main.ipynb
-```
+
 
 Make sure `tweets.csv` is in the same directory as the notebook.
 
@@ -78,7 +78,7 @@ Make sure `tweets.csv` is in the same directory as the notebook.
 
 -   Daily tweet counts show how Wordle hype grew over time.
 -   Distribution of attempts reveals most players solve Wordle in
-    3--5 tries.
+    3-5 tries.
 -   Heatmaps provide a clear picture of how success rates vary
     across puzzles.
 
